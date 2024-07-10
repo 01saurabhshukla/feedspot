@@ -1,19 +1,10 @@
 ## Steps to Follow
 
 1. **Start the Server**
-   ```plaintext
-   Step 01: Start the server
-   ```
 
 2. **Enter the Start and End Date**
-   ```plaintext
-   Step 02: Enter the start and end date
-   ```
 
 3. **Wait for the CSV File**
-   ```plaintext
-   Step 03: Wait until CSV is received
-   ```
 
 4. **Configure the SQL Connection**
    ```plaintext
@@ -25,7 +16,7 @@
 
 5. **Database Configuration (Optional)**
    ```plaintext
-   Step 05: Make sure you have a database named 'feedspot' and this is the configuration:
+   Make sure you have a database named 'feedspot' and this is the configuration:
    
    host='localhost',      # XAMPP runs on localhost
    user='root',           # Default user for XAMPP MySQL
@@ -35,24 +26,24 @@
 
 6. **Execute the SQL Connection File**
    ```plaintext
-   Step 06: Once you are sure with the configurations, execute the sql_connection file
+   Once you are sure with the configurations, execute the sql_connection file
    ```
 
 7. **Enter the Name of the Month**
    ```plaintext
-   Step 07: Enter the name of the month in the given format "february" (no space and only lowercase letters are allowed)
+   Enter the name of the month in the given format "february" (no space and only lowercase letters are allowed)
    ```
 
 8. **Wait for Completion**
    ```plaintext
-   Step 08: Wait until it shows:
+   Wait until it shows:
 
    <!-- print('-- Data insertion in DataBase is Succesful --') -->
    ```
 
 9. **Task Completion**
    ```plaintext
-   Step 09: The task of extracting data from Google Search Console, converting it to CSV, and inserting it into the DB is now done.
+   The task of extracting data from Google Search Console, converting it to CSV, and inserting it into the DB is now done.
    ```
 
 ## Optional Steps
