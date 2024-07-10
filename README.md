@@ -1,7 +1,3 @@
-# Project Title
-
-A brief description of what this project does and who it's for.
-
 ## Steps to Follow
 
 1. **Start the Server**
