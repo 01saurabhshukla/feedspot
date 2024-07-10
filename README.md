@@ -8,7 +8,7 @@
 
 4. **Configure the SQL Connection**
    ```plaintext
-   Step 04: Open sql_connection file and at the top enter the name of the CSV generated. Follow as given below:
+   Open sql_connection file and at the top enter the name of the CSV generated. Follow as given below:
    
    # -------------- Enter the file name -------------
    <!-- file_name = '2024-06-01_to_2024-06-30.json.csv' -->
