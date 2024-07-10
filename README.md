@@ -69,7 +69,3 @@ A brief description of what this project does and who it's for.
 
   At `Table_Name`, place your table name.
 
-## Acknowledgements
-
-Add acknowledgements here if needed.
-
